@@ -1,0 +1,65 @@
+body {
+   box-sizing: border-box;
+   width: 1000px;
+   margin: 0 auto;
+ }
+ .grass{
+   background-color:#A2BF89;
+   padding: 20px;
+}
+.margin{
+  border: 5px solid white;
+  padding:200px;
+}
+.arc1 {
+  border: 5px solid  white;
+  width:95px;
+  height:190px;
+  position: absolute;
+  left: 183px;
+  top: 130px;
+}
+.circle {
+  border: 5px solid  white;
+  width:190px;
+  height:190px;
+  border-radius: 171px;
+  position: absolute;
+  left: 555px;
+  top: 130px;
+}
+.arc2 {
+  border: 5px solid  white;
+  width:95px;
+  height:190px;
+  position: absolute;
+  right: 183px;
+  top: 130px;
+}
+.ball1{
+  background-color: #E5E7E9;
+  width:20px;
+  height:20px;
+  border-radius: 18px;
+  position: absolute;
+  left: 272px;
+  top: 135px;
+}
+.ball2{
+  background-color: #E5E7E9;
+  width:20px;
+  height:20px;
+  border-radius: 18px;
+  position: absolute;
+  left: 656px;
+  top: 70px;
+}
+.ball3{
+  background-color: #E5E7E9;
+  width:20px;
+  height:20px;
+  border-radius: 18px;
+  position: absolute;
+  right: 295px;
+  top: 290px;
+}
