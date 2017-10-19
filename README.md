@@ -12,4 +12,4 @@
 - [EDteam] : https://www.youtube.com/watch?v=fQmdNY8u2F4
 
 ### Imagen
-![La cancha](assets/images/La cancha.png)
+![La cancha](assets/images/La-cancha.png)
