@@ -1,6 +1,6 @@
 body {
    box-sizing: border-box;
-   width: 1000px;
+   width: 75%;
    margin: 0 auto;
  }
  .grass{
@@ -9,14 +9,14 @@ body {
 }
 .margin{
   border: 5px solid white;
-  padding:200px;
+  padding: 200px;
 }
 .arc1 {
   border: 5px solid  white;
   width:95px;
   height:190px;
   position: absolute;
-  left: 183px;
+  left: 220px;
   top: 130px;
 }
 .circle {
@@ -25,7 +25,7 @@ body {
   height:190px;
   border-radius: 171px;
   position: absolute;
-  left: 555px;
+  left: 680px;
   top: 130px;
 }
 .arc2 {
@@ -33,7 +33,7 @@ body {
   width:95px;
   height:190px;
   position: absolute;
-  right: 183px;
+  right: 220px;
   top: 130px;
 }
 .ball1{
@@ -42,7 +42,7 @@ body {
   height:20px;
   border-radius: 18px;
   position: absolute;
-  left: 272px;
+  left: 303px;
   top: 135px;
 }
 .ball2{
@@ -51,7 +51,7 @@ body {
   height:20px;
   border-radius: 18px;
   position: absolute;
-  left: 656px;
+  left: 700px;
   top: 70px;
 }
 .ball3{
@@ -60,6 +60,6 @@ body {
   height:20px;
   border-radius: 18px;
   position: absolute;
-  right: 295px;
+  right: 355px;
   top: 290px;
 }
